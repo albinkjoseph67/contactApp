@@ -1,0 +1,22 @@
+
+
+
+               Contact Management App
+
+        1.Create  a Angular project
+        2.Instal Bootstrap & Font-awsome       
+        3.paste cdn link of font-awsome in index.html
+        4.configure bootstrap & font awsome in angular.json
+        5.configure google font in style.css/ index.html
+        6.check all works fine
+        7.Create Components needed to display in webpage
+              -contactManager - view all contacts
+              -addContact     - add a new contact
+              -updateContact  - to edit the existing contact
+              -viewContact    - to view a particular contact
+              -pageNotFound   - to display page not found
+              -navbar         - place its selector inside root component html page
+        8.set up path for each component in order to view it in browser
+              -set up path for each component in app-routing.module.tsn,routes array
+              -in app.component.html add router-outlet selector for displaying different webpage as per user request
+        9.      
